@@ -1,0 +1,72 @@
+CycleGAN for Unpaired Image-to-Image Translation
+
+Objective: 
+
+The goal of this practical is to train a CycleGAN (Cycle-Consistent Generative Adversarial Network) to perform unpaired image-to-image translation tasks. 
+This involves converting images from one domain (e.g., horses) to another (e.g., zebras) and vice versa.
+
+---
+Key Concepts
+
+1. Image-to-Image Translation:
+   - Involves converting images from one domain to another while preserving key characteristics such as structure and content.
+   - Examples include converting day to night images, sketches to real photos, and horses to zebras.
+
+2. Unpaired Training:
+   - Unlike paired datasets where corresponding images from two domains are available, unpaired datasets have separate sets of images for each domain without direct correspondence.
+   - CycleGAN solves this challenge by introducing cycle consistency loss.
+
+3. CycleGAN Architecture:
+     - Generator Networks (G and F): Two generators are used:
+     - ( G ): Translates images from domain ( A ) to ( B ) (e.g., horses to zebras).
+     - ( F ): Translates images from domain ( B ) to ( A ) (e.g., zebras to horses).
+     -  Discriminator Networks (D_A and D_B): Two discriminators are used to distinguish real images from fake ones in each domain.
+
+4. Loss Functions:
+   - Adversarial Loss: Ensures that generated images look realistic in their target domain.
+  
+   -  Cycle Consistency Loss: Ensures that translating an image to another domain and back to the original domain recovers the original image.
+   
+   - Identity Loss: Encourages the generators to preserve color and other attributes when translating images to the same domain.
+
+5. Dataset:
+   - Requires two separate folders of images, one for each domain (e.g., horses and zebras).
+   - Commonly used dataset: `horse2zebra`, which can be downloaded from public sources like the PyTorch `torchvision.datasets` or TensorFlow's `CycleGAN` datasets.
+
+6. Applications:
+   - Style transfer (e.g., Van Gogh's paintings to real photos).
+   - Domain adaptation (e.g., real to synthetic image conversion).
+   - Medical imaging (e.g., CT to MRI image translation).
+
+---
+
+Steps Involved
+
+1. Dataset Preparation:
+   - Download unpaired datasets for the two domains.
+   - Preprocess images by resizing, cropping, and normalizing.
+
+2. Model Implementation:
+   - Define generator and discriminator architectures using neural networks.
+   - Use convolutional layers, normalization, and non-linear activations like ReLU and Tanh.
+
+3. Training:
+   - Train the CycleGAN with adversarial, cycle consistency, and identity losses.
+   - Use optimizers like Adam with learning rate schedulers for stability.
+
+4. Evaluation:
+   - Generate translated images after every few epochs.
+   - Compare generated images qualitatively and quantitatively using metrics like FID (Fréchet Inception Distance).
+
+---
+
+Advantages of CycleGAN
+
+- Does not require paired training data.
+- Effective for various real-world applications, especially where labeled datasets are unavailable.
+
+Challenges:
+- Training is computationally expensive and requires significant time and resources.
+- Generated images may lack fine details in complex transformations.
+
+---
