@@ -4,13 +4,15 @@ Welcome to the **Generative Adversarial Networks (GAN)** repository! This reposi
 
 ![Deep Fake GAN gif](https://i.makeagif.com/media/5-23-2023/BepLC8.gif)
 
-<img src="https://drive.google.com/uc?export=view&id=1VTOAH7LzgPIhbD8xxWr93QV_UQd0PYwH" alt="CycleGAN Example" width="400" />
+<img src="https://drive.google.com/uc?export=view&id=1p77tW24POFHn4QjD6hJKCA26rwqGuJi7" alt="DCGAN Results" width="400" />
 
+<img src="https://drive.google.com/uc?export=view&id=1VTOAH7LzgPIhbD8xxWr93QV_UQd0PYwH" alt="CycleGAN Example" width="400" />
 
 <img src="https://drive.google.com/uc?export=view&id=1AhtsJpdTWTp13vWHj2Sis_uKfGhgbDI6" alt="Basic GAN Output" width="400" />
 
 <img src="https://drive.google.com/uc?export=view&id=1swz63bKGQekGltW5sM38mubc6T34xaxN" alt="Pix2Pix Translation" width="400" />
 
+<img src="https://drive.google.com/uc?export=view&id=1VTOAH7LzgPIhbD8xxWr93QV_UQd0PYwH" alt="<DESCRIPTIVE_TEXT>" width="400" height="auto" />
 ## 🚀 About
 
 Generative Adversarial Networks (GANs) are a groundbreaking class of machine learning models. A GAN consists of two networks:
@@ -25,7 +27,7 @@ These two networks are trained in a zero-sum game, pushing the Generator to prod
 - **Unpaired Domain Adaptation**: Learning mappings between datasets without direct pairings.
 - **Progressive Learning**: Generating high-resolution images via stepwise training.
   
-<img src="https://drive.google.com/uc?export=view&id=1p77tW24POFHn4QjD6hJKCA26rwqGuJi7" alt="DCGAN Results" width="400" />
+
 
 ## 📂 Repository Structure
 
