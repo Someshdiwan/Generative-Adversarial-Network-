@@ -2,8 +2,12 @@
 
 Welcome to the **Generative Adversarial Networks (GAN)** repository! This repository features a variety of GAN architectures and experiments, showcasing their potential in tasks like image generation, domain translation, and high-resolution image synthesis. Explore implementations of **DCGAN**, **CycleGAN**, **Pix2Pix**, **Progressive Growing GAN**, and more.
 
-<img src="https://drive.google.com/uc?export=view&id=1AhtsJpdTWTp13vWHj2Sis_uKfGhgbDI6" alt="Basic GAN Output" width="400" />
 
+<img src="https://drive.google.com/uc?export=view&id=1AhtsJpdTWTp13vWHj2Sis_uKfGhgbDI6" alt="<DESCRIPTIVE_TEXT>" width="400" height="auto" />
+
+<img src="https://drive.google.com/uc?export=view&id=1p77tW24POFHn4QjD6hJKCA26rwqGuJi7" alt="<DESCRIPTIVE_TEXT>" width="400" height="auto" />
+
+![Deep Fake GAN gif](https://i.makeagif.com/media/5-23-2023/BepLC8.gif)
 
 ## 🚀 About
 
