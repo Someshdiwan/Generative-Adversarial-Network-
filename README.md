@@ -29,13 +29,13 @@ These two networks are trained in a zero-sum game, pushing the Generator to prod
 
 ```plaintext
 Generative-Adversarial-Network/
-├── Basic_GAN.ipynb                     # Basic GAN implementation
-├── Conditional_GAN.ipynb               # Conditional GAN implementation
-├── CycleGAN for Unpaired Image Translation.ipynb  # CycleGAN implementation
-├── Deep_Convolutional_GAN.ipynb        # DCGAN implementation
-├── Pix2Pix for Paired Image Translation.ipynb     # Pix2Pix implementation
-├── Progressive Growing GAN.ipynb       # Progressive GAN for high-res image data
-├── README.md                           # Repository documentation
+├── Basic_GAN.ipynb                                   # Basic GAN implementation
+├── Conditional_GAN.ipynb                             # Conditional GAN implementation
+├── CycleGAN for Unpaired Image Translation.ipynb     # CycleGAN implementation
+├── Deep_Convolutional_GAN.ipynb                      # DCGAN implementation
+├── Pix2Pix for Paired Image Translation.ipynb        # Pix2Pix implementation
+├── Progressive Growing GAN.ipynb                     # Progressive GAN for high-res image data
+├── README.md                                         # Repository documentation
 ```
 
 ```
@@ -81,7 +81,7 @@ PIL (Python Imaging Library)
 
 Clone the repository:
 
-git clone https://github.com/Someshdiwan/Generative-Adversarial-Network.git.
+git clone https://github.com/Someshdiwan/Generative-Adversarial-Network-
 
 cd Generative-Adversarial-Network
 
