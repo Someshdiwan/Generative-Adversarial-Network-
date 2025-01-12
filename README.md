@@ -79,7 +79,7 @@ Matplotlib
 OpenCV
 PIL (Python Imaging Library)
 
----
+```
 📊 Getting Started
 
 Clone the repository:
@@ -91,29 +91,24 @@ Install the required Python libraries:
 pip install
 
 Explore and execute the Jupyter notebooks to experience the power of GANs.
----
+```
 
----
+```
 📚 Resources
 
 Tutorials and Research Papers:
 
-CycleGAN and Pix2Pix:
-https://junyanz.github.io/CycleGAN/
+Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks: https://junyanz.github.io/CycleGAN/
 
-StyleGAN:
-StyleGAN Research
+Style based GAN: https://www.naukri.com/code360/library/style-based-gan
 
-Original GAN Paper:
-Generative Adversarial Nets (Goodfellow et al., 2014)
+Original GAN Paper / Generative Adversarial Nets (Goodfellow et al., 2014): https://arxiv.org/abs/1406.2661
 
-Progressive Growing of GANs:
-Karras et al., 2017
+Progressive Growing of GANs: https://arxiv.org/abs/1710.10196
 
-DCGAN Tutorial:
-Deep Convolutional GAN Guide
----
+```
 
+```
 🤝 Contributions
 We welcome your contributions to enhance this repository! 
 
@@ -123,3 +118,4 @@ Fork the repository, make improvements, and submit a pull request.
 
 🌟 Support
 If you find this repository helpful, please consider giving it a ⭐ on GitHub to show your support!
+```
