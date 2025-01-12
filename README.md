@@ -69,7 +69,6 @@ Progressive Growing GAN Results
 <img src="https://drive.google.com/uc?export=view&id=1XbxR2I_Eh-ne_CvPeKjKeBBjXvZbnPlL" alt="Progressive GAN Output" width="400" />
 
 ---
-
 🛠️ Technologies Used
 
 Python 3.x
@@ -78,8 +77,8 @@ NumPy
 Matplotlib
 OpenCV
 PIL (Python Imaging Library)
+---
 
-```
 📊 Getting Started
 
 Clone the repository:
@@ -91,9 +90,11 @@ Install the required Python libraries:
 pip install
 
 Explore and execute the Jupyter notebooks to experience the power of GANs.
-```
 
-```
+---
+
+---
+
 📚 Resources
 
 Tutorials and Research Papers:
@@ -106,7 +107,7 @@ Original GAN Paper / Generative Adversarial Nets (Goodfellow et al., 2014): http
 
 Progressive Growing of GANs: https://arxiv.org/abs/1710.10196
 
-```
+---
 
 ```
 🤝 Contributions
