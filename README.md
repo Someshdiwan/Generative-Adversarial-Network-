@@ -103,7 +103,7 @@ Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks:
 
 Style based GAN: https://www.naukri.com/code360/library/style-based-gan
 
-Original GAN Paper / Generative Adversarial Nets (Goodfellow et al., 2014): https://arxiv.org/abs/1406.2661
+Original GAN Paper/Generative Adversarial Nets (Goodfellow et al., 2014): https://arxiv.org/abs/1406.2661
 
 Progressive Growing of GANs: https://arxiv.org/abs/1710.10196
 
