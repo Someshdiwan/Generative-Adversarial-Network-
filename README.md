@@ -19,7 +19,6 @@ These two networks are trained in a zero-sum game, pushing the Generator to prod
 - **Unpaired Domain Adaptation**: Learning mappings between datasets without direct pairings.
 - **Progressive Learning**: Generating high-resolution images via stepwise training.
   
-DCGAN Results
 <img src="https://drive.google.com/uc?export=view&id=1p77tW24POFHn4QjD6hJKCA26rwqGuJi7" alt="DCGAN Results" width="400" />
 ---
 
