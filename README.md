@@ -2,8 +2,8 @@
 
 Welcome to the **Generative Adversarial Networks (GAN)** repository! This repository features a variety of GAN architectures and experiments, showcasing their potential in tasks like image generation, domain translation, and high-resolution image synthesis. Explore implementations of **DCGAN**, **CycleGAN**, **Pix2Pix**, **Progressive Growing GAN**, and more.
 
-![GitHub License](https://img.shields.io/github/license/Generative-Adversarial-Network-)
-![GitHub stars](https://img.shields.io/github/stars/Generative-Adversarial-Network-)
+![GitHub License](https://img.shields.io/github/license/Someshdiwan/Generative-Adversarial-Network-)
+![GitHub stars](https://img.shields.io/github/stars/Someshdiwan/Generative-Adversarial-Network-)
 
 ![Deep Fake GAN gif](https://i.makeagif.com/media/5-23-2023/BepLC8.gif)
 
