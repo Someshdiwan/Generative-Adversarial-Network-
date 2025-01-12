@@ -53,7 +53,8 @@ Progressive Growing GAN: Produces high-resolution images by progressively increa
 Visual Demonstrations
 ```
 
----
+
+```plaintext
 🌟 Highlights
 
 GAN Architectures:
@@ -64,7 +65,7 @@ Conditional GAN: Adds control over the generation process through input conditio
 CycleGAN: Enables translation between two unpaired datasets.
 Pix2Pix: Translates between two paired datasets with pixel-level mappings.
 Progressive GAN: Scales GANs to synthesize high-resolution images.
-
+```
 <img src="https://drive.google.com/uc?export=view&id=1AhtsJpdTWTp13vWHj2Sis_uKfGhgbDI6" alt="Basic GAN Output" width="400" />
 
 <img src="https://drive.google.com/uc?export=view&id=1XbxR2I_Eh-ne_CvPeKjKeBBjXvZbnPlL" alt="Progressive GAN Output" width="400" />
