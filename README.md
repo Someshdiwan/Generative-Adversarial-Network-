@@ -12,7 +12,8 @@ Welcome to the **Generative Adversarial Networks (GAN)** repository! This reposi
 
 <img src="https://drive.google.com/uc?export=view&id=1swz63bKGQekGltW5sM38mubc6T34xaxN" alt="Pix2Pix Translation" width="400" />
 
-<img src="https://drive.google.com/uc?export=view&id=1swz63bKGQekGltW5sM38mubc6T34xaxN" alt="<DESCRIPTIVE_TEXT>" width="400" height="auto" />
+<img src="https://drive.google.com/uc?export=view&id=1XbxR2I_Eh-ne_CvPeKjKeBBjXvZbnPlL" alt="<DESCRIPTIVE_TEXT>" width="400" height="auto" />
+
 ## 🚀 About
 
 Generative Adversarial Networks (GANs) are a groundbreaking class of machine learning models. A GAN consists of two networks:
