@@ -71,6 +71,8 @@ Progressive GAN: Scales GANs to synthesize high-resolution images.
 <img src="https://drive.google.com/uc?export=view&id=1XbxR2I_Eh-ne_CvPeKjKeBBjXvZbnPlL" alt="Progressive GAN Output" width="400" />
 
 ---
+
+```plaintext
 🛠️ Technologies Used
 
 Python 3.x
@@ -79,7 +81,7 @@ NumPy
 Matplotlib
 OpenCV
 PIL (Python Imaging Library)
----
+```
 
 📊 Getting Started
 
