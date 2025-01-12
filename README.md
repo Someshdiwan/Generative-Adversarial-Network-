@@ -6,21 +6,16 @@ Welcome to the **Generative Adversarial Networks (GAN)** repository! This reposi
 
 <img src="https://drive.google.com/uc?export=view&id=1p77tW24POFHn4QjD6hJKCA26rwqGuJi7" alt="DCGAN Results" width="400" />
 
-<img src="https://drive.google.com/uc?export=view&id=1EtlCSW1E4R2oSb6k1UKPUC-NmN44uQr7" alt="Descriptive Text" width="400" height="auto" />
-
-<img src="https://drive.google.com/uc?export=view&id=1VTOAH7LzgPIhbD8xxWr93QV_UQd0PYwH" alt="CycleGAN Example" width="400" />
-
-<img src="https://drive.google.com/uc?export=view&id=1AhtsJpdTWTp13vWHj2Sis_uKfGhgbDI6" alt="Basic GAN Output" width="400" />
-
-<img src="https://drive.google.com/uc?export=view&id=1swz63bKGQekGltW5sM38mubc6T34xaxN" alt="Pix2Pix Translation" width="400" />
-
-
 ## 🚀 About
 
 Generative Adversarial Networks (GANs) are a groundbreaking class of machine learning models. A GAN consists of two networks:
 
 - **Generator**: Creates synthetic data that mimics real data.
 - **Discriminator**: Differentiates between real and generated data.
+
+<img src="https://drive.google.com/uc?export=view&id=1EtlCSW1E4R2oSb6k1UKPUC-NmN44uQr7" alt="Descriptive Text" width="400" height="auto" />
+
+<img src="https://drive.google.com/uc?export=view&id=1VTOAH7LzgPIhbD8xxWr93QV_UQd0PYwH" alt="CycleGAN Example" width="400" />
 
 These two networks are trained in a zero-sum game, pushing the Generator to produce increasingly realistic outputs. GANs have applications in:
 
@@ -29,7 +24,6 @@ These two networks are trained in a zero-sum game, pushing the Generator to prod
 - **Unpaired Domain Adaptation**: Learning mappings between datasets without direct pairings.
 - **Progressive Learning**: Generating high-resolution images via stepwise training.
   
-
 
 ## 📂 Repository Structure
 
@@ -43,6 +37,7 @@ Generative-Adversarial-Network/
 ├── Progressive Growing GAN.ipynb       # Progressive GAN for high-res image data
 ├── README.md                           # Repository documentation
 ```
+
 ```
 🔧 Features
 
@@ -54,7 +49,8 @@ Pix2Pix: Executes paired image-to-image translation, e.g., transforming sketches
 Progressive Growing GAN: Produces high-resolution images by progressively increasing model complexity.
 Visual Demonstrations
 ```
-```
+
+---
 🌟 Highlights
 
 GAN Architectures:
@@ -66,10 +62,8 @@ CycleGAN: Enables translation between two unpaired datasets.
 Pix2Pix: Translates between two paired datasets with pixel-level mappings.
 Progressive GAN: Scales GANs to synthesize high-resolution images.
 
-```
-GAN Output:
+<img src="https://drive.google.com/uc?export=view&id=1AhtsJpdTWTp13vWHj2Sis_uKfGhgbDI6" alt="Basic GAN Output" width="400" />
 
-Progressive Growing GAN Results
 <img src="https://drive.google.com/uc?export=view&id=1XbxR2I_Eh-ne_CvPeKjKeBBjXvZbnPlL" alt="Progressive GAN Output" width="400" />
 
 ---
@@ -95,10 +89,11 @@ pip install
 
 Explore and execute the Jupyter notebooks to experience the power of GANs.
 
----
+<img src="https://drive.google.com/uc?export=view&id=1swz63bKGQekGltW5sM38mubc6T34xaxN" alt="Pix2Pix Translation" width="400" />
 
 ---
 
+---
 📚 Resources
 
 Tutorials and Research Papers:
