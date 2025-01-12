@@ -81,7 +81,8 @@ PIL (Python Imaging Library)
 
 Clone the repository:
 
-git clone https://github.com/Someshdiwan/Generative-Adversarial-Network.git
+git clone https://github.com/Someshdiwan/Generative-Adversarial-Network.git.
+
 cd Generative-Adversarial-Network
 
 Install the required Python libraries:
